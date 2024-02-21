@@ -1,0 +1,7 @@
+E:\labsheet 1\Question 2\Question 2\obj\Debug\Question 2.csproj.AssemblyReference.cache
+E:\labsheet 1\Question 2\Question 2\obj\Debug\Question 2.csproj.CoreCompileInputs.cache
+E:\labsheet 1\Question 2\Question 2\bin\Debug\Question 2.exe.config
+E:\labsheet 1\Question 2\Question 2\bin\Debug\Question 2.exe
+E:\labsheet 1\Question 2\Question 2\bin\Debug\Question 2.pdb
+E:\labsheet 1\Question 2\Question 2\obj\Debug\Question 2.exe
+E:\labsheet 1\Question 2\Question 2\obj\Debug\Question 2.pdb
